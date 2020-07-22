@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="97" started-at="2020-01-21T00:49:32Z" finished-at="2020-01-21T00:49:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="97" started-at="2020-01-21T00:49:32Z" finished-at="2020-01-21T00:49:32Z">
+      <class name="sruj.logpro">
+        <test-method status="PASS" signature="pro()[pri:0, instance:sruj.logpro@1081592]" name="pro" duration-ms="31" started-at="2020-01-21T00:49:32Z" finished-at="2020-01-21T00:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pro -->
+        <test-method status="PASS" signature="lo()[pri:0, instance:sruj.logpro@1081592]" name="lo" duration-ms="5" started-at="2020-01-21T00:49:32Z" finished-at="2020-01-21T00:49:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lo -->
+      </class> <!-- sruj.logpro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
